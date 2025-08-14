@@ -1,4 +1,5 @@
-#                                        BANG420 Assignment Submission   #
+<h1 align="center">BANG420 Assignment Submission</h1>
+
 
 ### Getting Started
 

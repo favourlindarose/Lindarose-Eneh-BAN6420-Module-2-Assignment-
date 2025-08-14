@@ -1,4 +1,4 @@
-                              "# BANG420 Assignment Submission
+                              ## BANG420 Assignment Submission
 
 ## Getting Started
 
@@ -57,7 +57,7 @@ An R file (\`unzip_and_display.R\`) is provided to automatically **unzip** the \
 
 ---
 
-## How to Run
+### How to Run
 
 1. Execute all cells in:
 \`\`\`bash
@@ -71,7 +71,7 @@ Rscript unzip_and_display.R
 
 ---
 
-## Files
+### Files
 
 - **Python Notebook**: \`salary_assignment.ipynb\`
 - **R Script**: \`unzip_and_display.R\`
@@ -80,7 +80,7 @@ Rscript unzip_and_display.R
 
 ---
 
-## ✅ FULLY COMPLETED TASKS
+### ✅ FULLY COMPLETED TASKS
 
 **As instructed**
 - Import Data ✅ — Used \`construction_payroll.csv\` in Python  
@@ -98,7 +98,7 @@ Rscript unzip_and_display.R
 
 ---
 
-## 📁 FINAL FILES VERIFIED
+###   FINAL FILES VERIFIED
 
 \`\`\`bash
 # My directory (all required files present):

@@ -83,18 +83,18 @@ Rscript unzip_and_display.R
 ###   FULLY COMPLETED TASKS
 
 **As instructed**
-- Import Data ✅ — Used \`construction_payroll.csv\` in Python  
-- Create Employee Function ✅ — Implemented \`get_employee_details(name)\` in Jupyter  
-- Data Processing with Dictionary ✅ — Used \`employee_dict = df.to_dict("index")\`  
-- Error Handling ✅ — Added try/except in lookup and export functions  
-- Export Employee Details ✅ — \`export_employee()\` creates CSV + ZIP  
+- Import Data ✅ Used \`construction_payroll.csv\` in Python  
+- Create Employee Function ✅Implemented \`get_employee_details(name)\` in Jupyter  
+- Data Processing with Dictionary ✅Used \`employee_dict = df.to_dict("index")\`  
+- Error Handling ✅ Added try/except in lookup and export functions  
+- Export Employee Details ✅ \`export_employee()\` creates CSV + ZIP  
 
 **From the instruction**
-- Unzip and Display with R ✅ — \`unzip_and_display.R\` works with Python's ZIP output  
+- Unzip and Display with R ✅\`unzip_and_display.R\` works with Python's ZIP output  
 
 **From what i have here all the **
-- Jupyter Notebook ✅ — \`salary_assignment.ipynb\` covers all Python tasks  
-- GitHub Submission ✅ — All files are in my \`~/salary-projec/\` directory  
+- Jupyter Notebook ✅ \`salary_assignment.ipynb\` covers all Python tasks  
+- GitHub Submission ✅All files are in my \`~/salary-projec/\` directory  
 
 ---
 

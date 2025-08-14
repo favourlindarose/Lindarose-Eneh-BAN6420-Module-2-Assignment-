@@ -1,6 +1,6 @@
-                              ## BANG420 Assignment Submission
+#                                        BANG420 Assignment Submission
 
-## Getting Started
+### Getting Started
 
 You can start this assignment by following these steps:
 
@@ -71,7 +71,7 @@ Rscript unzip_and_display.R
 
 ---
 
-### Files
+###   Files
 
 - **Python Notebook**: \`salary_assignment.ipynb\`
 - **R Script**: \`unzip_and_display.R\`
@@ -80,7 +80,7 @@ Rscript unzip_and_display.R
 
 ---
 
-### ✅ FULLY COMPLETED TASKS
+###   FULLY COMPLETED TASKS
 
 **As instructed**
 - Import Data ✅ — Used \`construction_payroll.csv\` in Python  
@@ -101,7 +101,7 @@ Rscript unzip_and_display.R
 ###   FINAL FILES VERIFIED
 
 \`\`\`bash
-# My directory (all required files present):
+## My directory (all required files present):
 construction_payroll.csv      # Salary data
 Employee_Profile/             # Exported employees  
 Employee_Profile.zip          # Zipped output

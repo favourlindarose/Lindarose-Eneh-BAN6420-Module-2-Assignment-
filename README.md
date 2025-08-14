@@ -1,4 +1,4 @@
-#                                        BANG420 Assignment Submission
+#                                        BANG420 Assignment Submission   #
 
 ### Getting Started
 

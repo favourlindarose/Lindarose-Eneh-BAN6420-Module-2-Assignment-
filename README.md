@@ -1,4 +1,4 @@
-echo "# BANG420 Assignment Submission
+                              "# BANG420 Assignment Submission
 
 ## Getting Started
 
@@ -61,9 +61,10 @@ An R file (\`unzip_and_display.R\`) is provided to automatically **unzip** the \
 
 1. Execute all cells in:
 \`\`\`bash
+if you create the fill bellow it will give you a dashbord where you see what number one is talking about 
 salary_assignment.ipynb
 \`\`\`
-2. Then run:
+3. Then run:
 \`\`\`bash
 Rscript unzip_and_display.R
 \`\`\`
@@ -91,17 +92,16 @@ Rscript unzip_and_display.R
 **From the instruction**
 - Unzip and Display with R ✅ — \`unzip_and_display.R\` works with Python's ZIP output  
 
-**From WhatsApp Image 2025-08-10 at 6.38.24 PM.jpeg:**
+**From what i have here all the **
 - Jupyter Notebook ✅ — \`salary_assignment.ipynb\` covers all Python tasks  
-- GitHub Submission ✅ — All files are in your \`~/salary-project/\` directory  
-- README.md ✅ — Created with full instructions (see above)  
+- GitHub Submission ✅ — All files are in my \`~/salary-projec/\` directory  
 
 ---
 
 ## 📁 FINAL FILES VERIFIED
 
 \`\`\`bash
-# Your directory (all required files present):
+# My directory (all required files present):
 construction_payroll.csv      # Salary data
 Employee_Profile/             # Exported employees  
 Employee_Profile.zip          # Zipped output

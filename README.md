@@ -5,7 +5,7 @@
 You can start this assignment by following these steps:
 
 ### 1. Create and enter your project directory
-\`\`\`bash
+\`\`\
 mkdir salary-project && cd salary-project
 \`\`\`
 
@@ -13,7 +13,7 @@ mkdir salary-project && cd salary-project
 
 ### 2. Open the directory in Visual Studio Code
 While inside the directory, run:
-\`\`\`bash
+\`\`\
 code .
 \`\`\`
 This will open the folder in Visual Studio Code.  
@@ -32,12 +32,12 @@ You’ll also need to **install the Python Notebook extension** in VS Code to be
 Before running your code, make sure you have the necessary packages installed.
 
 #### Option 1: Local machine (Linux with sudo access)
-\`\`\`bash
+\`\`\
 sudo apt install python3-pandas
 \`\`\`
 
 #### Option 2: Virtual Machine or environment
-\`\`\`bash
+\`\`\
 pip install notebook
 jupyter notebook
 \`\`\`
@@ -60,7 +60,7 @@ An R file (\`unzip_and_display.R\`) is provided to automatically **unzip** the \
 ### How to Run
 
 1. Execute all cells in:
-\`\`\`bash
+\`\`\
 if you create the fill bellow it will give you a dashbord where you see what number one is talking about 
 salary_assignment.ipynb
 \`\`\`
@@ -100,7 +100,7 @@ Rscript unzip_and_display.R
 
 ###   FINAL FILES VERIFIED
 
-\`\`\`bash
+\`\`\
 ## My directory (all required files present):
 construction_payroll.csv      # Salary data
 Employee_Profile/             # Exported employees  
